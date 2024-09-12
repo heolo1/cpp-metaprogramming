@@ -1,0 +1,1517 @@
+# mangled-name
+	_Z
+	# encoding
+		# function name -> local-name
+			Z
+			# function encoding
+				# function name
+					# unscoped-template-name -> unscoped-name -> unqualified-name -> operator-name
+						ls # <<
+					# template-args
+						I
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								202
+							E
+						E
+				# bare-function-type
+					# signature type
+						R # l-value reference
+						# type -> substitution
+							So # ::std::basic_ostream<char, std::char_traits<char>>
+					# signature type -> substitution
+						S
+						# seq-id
+							0
+						_
+					# signature type
+						R # l-value reference
+						# type -> qualified-type
+							# qualifiers -> CV-qualifiers
+								K # const
+							# type -> class-enum-type -> name
+								# unscoped-template-name -> unscoped-name -> unqualified-name -> source-name
+									# positive length number
+										12
+									# identifier
+										fixed_string
+								# template-args
+									I
+									# template-arg
+										X # expression
+										# expression -> template-param
+											T_ # first template parameter
+										E
+									E
+			E
+			# entity name -> nested-name
+				N
+				# CV-qualifiers
+					K # const
+				# prefix
+				# template-prefix
+					# prefix -> unqualified-name -> unnamed-type-name -> closure-type-name
+						Ul
+						# lambda-sig -> parameter type -> class-enum-type -> name
+							# unscoped-template-name -> unscoped-name
+								St # ::std::
+								# unqualified-name -> source-name
+									# positive length number
+										16
+									# identifier
+										integer_sequence
+							# template-args
+									I
+									# template-arg -> type -> builtin-type
+										m # unsigned long
+									# template-arg
+										J # argument pack
+										# template-arg
+											X # expression
+											# expression
+												sp # pack expansion
+												# expression -> template-param
+													T_ # first template parameter
+											E
+										E
+									E
+						E
+						_
+					# template unqualified-name
+						cl # ()
+				# template-args
+					I
+					# template-arg
+						J # argument pack
+						## note: all of the following are integer literal constants of type unsigned long, with values going from 0 to 201 (inclusive) incrementing by 1
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								0
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								1
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								2
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								3
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								4
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								5
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								6
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								7
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								8
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								9
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								10
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								11
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								12
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								13
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								14
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								15
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								16
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								17
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								18
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								19
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								20
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								21
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								22
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								23
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								24
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								25
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								26
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								27
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								28
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								29
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								30
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								31
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								32
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								33
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								34
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								35
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								36
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								37
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								38
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								39
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								40
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								41
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								42
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								43
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								44
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								45
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								46
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								47
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								48
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								49
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								50
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								51
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								52
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								53
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								54
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								55
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								56
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								57
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								58
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								59
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								60
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								61
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								62
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								63
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								64
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								65
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								66
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								67
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								68
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								69
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								70
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								71
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								72
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								73
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								74
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								75
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								76
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								77
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								78
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								79
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								80
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								81
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								82
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								83
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								84
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								85
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								86
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								87
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								88
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								89
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								90
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								91
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								92
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								93
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								94
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								95
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								96
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								97
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								98
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								99
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								100
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								101
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								102
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								103
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								104
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								105
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								106
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								107
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								108
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								109
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								110
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								111
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								112
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								113
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								114
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								115
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								116
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								117
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								118
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								119
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								120
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								121
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								122
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								123
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								124
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								125
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								126
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								127
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								128
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								129
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								130
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								131
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								132
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								133
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								134
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								135
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								136
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								137
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								138
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								139
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								140
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								141
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								142
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								143
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								144
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								145
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								146
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								147
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								148
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								149
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								150
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								151
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								152
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								153
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								154
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								155
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								156
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								157
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								158
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								159
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								160
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								161
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								162
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								163
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								164
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								165
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								166
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								167
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								168
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								169
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								170
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								171
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								172
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								173
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								174
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								175
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								176
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								177
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								178
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								179
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								180
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								181
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								182
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								183
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								184
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								185
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								186
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								187
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								188
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								189
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								190
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								191
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								192
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								193
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								194
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								195
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								196
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								197
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								198
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								199
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								200
+							E
+						# template-arg -> expr-primary
+							L # integer literal
+							# type -> builtin-type
+								m # unsigned long
+							# value number
+								201
+							E 
+						E
+					E
+				E
+		# bare-function-type
+			# signature type -> substitution
+				S
+				# seq-id
+					0
+				_
+			# signature type -> substitution
+				S
+				# seq-id
+					6
+				_
